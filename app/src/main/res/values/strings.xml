@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SSRAccount</string>
+    <string name="auto_fill">SSR Auto Fill</string>
+    <string name="auto_install">Auto Install</string>
+    <string name="auto_reply">Auto Reply</string>
+    <string name="auto_clean">Auto Clean</string>
+</resources>
